@@ -31,7 +31,7 @@ This information will help us triage your report more quickly.
 If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/opensource/security/bounty) page for more details about our active programs.
 
 ## Preferred Languages
-
+Server=tcp:contoso-traders-products176073.database.windows.net,1433;Initial Catalog=productsdb;Persist Security Info=False;User ID=localadmin;Password=iwyu02ZYF*sP;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
 We prefer all communications to be in English.
 
 ## Policy
